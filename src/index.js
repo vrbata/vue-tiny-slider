@@ -348,4 +348,4 @@ function removeUndefinedProps(obj) {
 	}
 }
 
-module.exports = VueTinySlider;
+export default VueTinySlider;
